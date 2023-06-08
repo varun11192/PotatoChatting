@@ -56,7 +56,8 @@ public class SettingsActivity extends AppCompatActivity {
 
             }
         });
-
+        //this is a practice commit that i am doing
+        //just for learning purposes
     }
 
     @Override
