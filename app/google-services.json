@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634714685905",
+    "project_id": "potatochatting-84a93",
+    "storage_bucket": "potatochatting-84a93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634714685905:android:3fd4b4b5156a15306760f0",
+        "android_client_info": {
+          "package_name": "com.varunsen.potatofarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634714685905-67c674uidnruako3do5ht0l5m8rh111t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMVl8ZG6KBTYfWl6JA7Xs9eFjT3pcfdrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634714685905-67c674uidnruako3do5ht0l5m8rh111t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
